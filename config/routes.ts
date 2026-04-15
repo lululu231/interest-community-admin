@@ -56,6 +56,22 @@ export default [
     ],
   },
   {
+    path: '/event-management',
+    name: 'event-management',
+    icon: 'calendar',
+    routes: [
+      {
+        path: '/event-management/event-review',
+        name: 'event-review',
+        component: './event-management/event-review',
+      },
+      {
+        path: '/event-management',
+        redirect: '/event-management/event-review',
+      },
+    ],
+  },
+  {
     path: '/',
     redirect: '/club-management/club-review',
   },

@@ -2,6 +2,8 @@ export default {
   'menu.welcome': 'Welcome',
   'menu.club-management': 'Club Management',
   'menu.club-management.club-review': 'Club Review',
+  'menu.event-management': 'Event Management',
+  'menu.event-management.event-review': 'Event Review',
   'menu.more-blocks': 'More Blocks',
   'menu.home': 'Home',
   'menu.admin': 'Admin',

@@ -2,6 +2,8 @@ export default {
   'menu.welcome': '欢迎',
   'menu.club-management': '社团管理',
   'menu.club-management.club-review': '社团审核',
+  'menu.event-management': '活动管理',
+  'menu.event-management.event-review': '活动审核',
   'menu.more-blocks': '更多区块',
   'menu.home': '首页',
   'menu.admin': '管理页',
